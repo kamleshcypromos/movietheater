@@ -28,7 +28,7 @@ This is a poorly written application, and we're expecting the candidate to great
   * The discount amount applied only one if met multiple rules; biggest amount one
 * We want to print the movie schedule with simple text & json format
 
-## Implmentation 
+## Implementation 
 * Created the following 
   * MovieService - Manages the movies (get, add etc)
   * SchedulerService - Manages the scheduling of Movies
