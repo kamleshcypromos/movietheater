@@ -38,28 +38,5 @@ public class MovieService implements IMovieService {
     public List<Movie> getMovies() {
         return movies;
     }
-
-   /* @Override
-    public void addMovie(Movie movie) {
-        movies.add(movie);
-        updateMovie();
-    }
-
-    @Override
-    public void deleteMovie(Movie movie) {
-        movies.remove(movie);
-        updateMovie();
-    }
-
-    private void updateMovie() {
-        File movieFileJson = new File(this.getClass().getResource("/movies.json").getFile());
-        try {
-            FileWriter fileWriter = new FileWriter(movieFileJson.getAbsolutePath());
-            GSON.toJson(movies, fileWriter);
-            fileWriter.close();
-        } catch (IOException e) {
-            log.error("Unable to add movie ", e);
-            throw new RuntimeException(e);
-        }
-    }*/
+    
 }
