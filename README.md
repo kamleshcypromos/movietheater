@@ -27,3 +27,10 @@ This is a poorly written application, and we're expecting the candidate to great
   * Any movies showing on 7th, you'll get 1$ discount
   * The discount amount applied only one if met multiple rules; biggest amount one
 * We want to print the movie schedule with simple text & json format
+
+## Implmentation 
+* Created the following 
+  * MovieService - Manages the movies (get, add etc)
+  * SchedulerService - Manages the scheduling of Movies
+  * ReservationService - Manages the client reservations
+  * Theater - Driver program

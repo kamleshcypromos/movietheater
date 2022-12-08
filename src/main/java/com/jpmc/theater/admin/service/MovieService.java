@@ -38,5 +38,5 @@ public class MovieService implements IMovieService {
     public List<Movie> getMovies() {
         return movies;
     }
-    
+
 }
