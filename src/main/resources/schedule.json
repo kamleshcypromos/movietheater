@@ -1,0 +1,46 @@
+[{
+    "movieId": 1,
+    "sequenceOfTheDay": 1,
+    "showStartTime": "09:00"
+},
+  {
+    "movieId": 2,
+    "sequenceOfTheDay": 2,
+    "showStartTime": "11:00"
+  },
+  {
+    "movieId": 3,
+    "sequenceOfTheDay": 3,
+    "showStartTime": "12:50"
+  },
+  {
+    "movieId": 1,
+    "sequenceOfTheDay": 4,
+    "showStartTime": "14:30"
+  },
+  {
+    "movieId": 2,
+    "sequenceOfTheDay": 5,
+    "showStartTime": "16:10"
+  },
+  {
+    "movieId": 3,
+    "sequenceOfTheDay": 6,
+    "showStartTime": "17:50"
+  },
+  {
+    "movieId": 1,
+    "sequenceOfTheDay": 7,
+    "showStartTime": "19:30"
+  },
+  {
+    "movieId": 2,
+    "sequenceOfTheDay": 8,
+    "showStartTime": "21:10"
+  },
+  {
+    "movieId": 3,
+    "sequenceOfTheDay": 9,
+    "showStartTime": "23:00"
+  }
+]
